@@ -1,2 +1,2 @@
 # DSA-Practice
-Data Structures &amp; Algorithms practice in C Language
+Data Structures & Algorithms practice in C Language
