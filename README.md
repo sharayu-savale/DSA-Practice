@@ -6,3 +6,6 @@ Data Structures & Algorithms practice in C Language
   1. `insert.c` - Array insertion program
    
   2.`decr.c` - Array deletion program 
+
+  3.menu_driven_sorting
+  
