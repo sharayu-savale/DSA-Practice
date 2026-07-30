@@ -10,3 +10,5 @@ Data Structures & Algorithms practice in C Language
 3.menu_driven_sorting
   
 4. print hello world
+
+5.stack.c
