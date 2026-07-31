@@ -12,3 +12,5 @@ Data Structures & Algorithms practice in C Language
 4. print hello world
 
 5.stack.c
+
+6.even_odd
