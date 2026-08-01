@@ -14,3 +14,5 @@ Data Structures & Algorithms practice in C Language
 5.stack
 
 6.even_odd
+
+7.array
