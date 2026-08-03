@@ -15,4 +15,7 @@ Data Structures & Algorithms practice in C Language
 
 6.even_odd
 
-7.array
+7.arra
+
+8.Factorial
+
