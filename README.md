@@ -19,3 +19,5 @@ Data Structures & Algorithms practice in C Language
 
 8.Factorial
 
+9.linear search
+
