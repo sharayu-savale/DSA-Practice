@@ -21,3 +21,5 @@ Data Structures & Algorithms practice in C Language
 
 9.linear search
 
+10.Greater No
+
