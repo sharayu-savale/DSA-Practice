@@ -23,3 +23,5 @@ Data Structures & Algorithms practice in C Language
 
 10.Greater No
 
+11.prime no
+
